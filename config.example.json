@@ -1,0 +1,34 @@
+{
+  "trading_mode": "LIVE",
+  "erfahrungs_modus": "ANFAENGER",
+  "ollama_fallback_model": "qwen3.5:9b",
+  "gemini_api_key": "HIER_DEINEN_ECHTEN_KEY_EINSETZEN",
+  "gemini_models": [
+    "gemini-3.8-flash",
+    "gemini-3.5-flash",
+    "gemini-3-flash-preview",
+    "gemini-3.5-flash-lite",
+    "gemini-3.1-flash-lite",
+    "gemini-2.5-flash-lite"
+  ],
+  "watchlist": [
+    "SPY",
+    "QQQ",
+    "^GDAXI",
+    "GC=F",
+    "BTC-USD",
+    "ETH-USD",
+    "SOL-USD",
+    "NVDA",
+    "TSLA",
+    "AAPL",
+    "DELL"
+  ],
+  "risiko": {
+    "startkapital_paper_usd": 1000.0,
+    "max_risiko_pro_trade_prozent": 1.0,
+    "max_tagesverlust_prozent": 3.0,
+    "cooldown_nach_verlust_minuten": 30,
+    "geschaetzte_gebuehr_prozent": 0.1
+  }
+}
