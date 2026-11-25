@@ -2,7 +2,7 @@
   "trading_mode": "LIVE",
   "erfahrungs_modus": "ANFAENGER",
   "ollama_fallback_model": "qwen3.5:9b",
-  "gemini_api_key": "AQ.Ab8RN6JxtsVgKp21usWXqQZue1y3-TMwSOERMNuj0nljC8kUeQ",
+  
   "gemini_models": [
     "gemini-3.8-flash",
     "gemini-3.5-flash",
